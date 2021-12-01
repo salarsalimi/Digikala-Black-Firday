@@ -28,5 +28,5 @@ for j in range(0,46):                                                           
         for k in x2:                                                                                 # Iterate through images and correct their name in order to save them
             imageurl = k.replace("/", "")
             imagefile = imageurl.replace(":", "")
-            urllib.request.urlretrieve(k, 'V:\\python\\Hunt\\' + imagefile)
+            urllib.request.urlretrieve(k, ''C:\\Users\\Administrator.S-VM1\\Desktop\\python\\Hunt\\'+imagefile)
 
