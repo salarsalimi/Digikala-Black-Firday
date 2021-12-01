@@ -14,4 +14,10 @@ Rules were simple as follow
 So i decided to write a code for entertainment ( This code is not optimized !!!!  its just for fun and Learning )
 There are two programs code that involve
 
-a)
+a) Download_Images_Repository.py  --->  This Program Downloads all 10000 images and save them in local storage we need these images for 2 reason
+
+1 ) if the is written in a image that is edited we can compare 2 images and if any chnage occured to original image we retrive the code
+
+2 ) if the code is in new product image that has been added we can compare the name with the ones we download and if its new we investigate the new image
+
+
